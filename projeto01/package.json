@@ -1,0 +1,16 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "Projeto 01 backend com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Helysson Cavalcante",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
